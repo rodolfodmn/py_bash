@@ -1,0 +1,29 @@
+{
+    "Block": {
+        "type": "dir",
+        "sub":""
+    },
+    "controllers":{
+        "type": "dir",
+        "sub":""
+    },
+    "etc":{
+        "type": "dir",
+        "sub":""
+    },
+    "view":{
+        "type": "dir",
+        "sub":""
+    },
+    "sql":{
+        "type": "dir",
+        "sub":""
+    },
+    "Helper":{
+        "type": "dir",
+        "sub":""
+    },
+    "composer.json":{
+        "type":"file"   
+    }
+}
